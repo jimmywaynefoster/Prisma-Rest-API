@@ -4,7 +4,6 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://zaid:zaid1202@localhost:5432/prismaplay"
 }
 
 model Author {
